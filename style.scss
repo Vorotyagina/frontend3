@@ -71,7 +71,24 @@ a {
   flex-direction: row;
   gap: 24px;
 }
+.buttonContainerLevelNumber {
+  width: 97px;
+  height: 98px;
+  margin-top: 48px;
 
+  border-radius: 12px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #fff;
+
+  font-weight: 400;
+  font-size: 64px;
+  color: #0080C1;
+  font-family: 'StratosSkyeng';
+}
 .divContainerLevelNumber {
   width: 97px;
   height: 98px;

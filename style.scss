@@ -1,5 +1,3 @@
-
-//@import 'var';
 @font-face {
   font-family: 'StratosSkyeng';
   src: url(/fonts/Stratos-Regular.ttf) format('ttf'), url(/fonts/Stratos-Regular.woff) format('woff');
@@ -21,16 +19,6 @@ body {
 a {
    text-decoration: none;
 }
-// input[type=number]::-webkit-inner-spin-button,
-// input[type=number]::-webkit-outer-spin-button {
-//       -webkit-appearance: none;
-//       margin: 0;
-// }
-// input[type=number] {
-//     -moz-appearance: textfield;
-//     appearance: textfield;
-//     margin: 0;
-//   }
 .divMain {
   background-color: #004980;
   display: flex;
@@ -126,28 +114,4 @@ a {
 
   background-color: #7AC100
 }
-// .buttonGames {
-//  display: flex;
-//  flex-direction: row;
-//  justify-content: space-between;
-//  column-gap: 32px;
-//  padding-top: 128px;
-//  padding-bottom: 1128px;
-// }
-// .game1 {
-//   background-image: url('img/game1.jpg');
-//   width: 379px;
-//   height: 300px;
-//   border-radius: 16px;
-//   padding-left: 32px;
-//   padding-top: 236px;
-//   background-repeat: no-repeat;
-//   box-sizing: border-box;
-//   transition: all .3s;
-//   &:hover {
-//     border: 3px solid #44D2FF;
-//     cursor: url('img/cursor1.svg'), auto;
-//     }
-// }
 
-@import 'mobile';
